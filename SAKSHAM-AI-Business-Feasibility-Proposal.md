@@ -3,6 +3,7 @@
 
 *Companion document to the 10-Day Hackathon MVP Architecture. This document does not repeat the technical architecture — it extends it with the business case, ecosystem context, hardware evolution path, and go-to-market plan that would sit alongside the technical submission.*
 
+
 ---
 
 ## 1. Executive Summary
