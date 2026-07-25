@@ -2,6 +2,7 @@
 
 Assume: mic + webcam + smart TV/browser + internet already in classroom. No edge hardware. Web app only.
 
+
 ---
 
 # 1. MVP System Architecture
